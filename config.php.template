@@ -1,0 +1,6 @@
+<?php
+
+define('VALID_TOKEN_HASH', 'd033e22ae348aeb5660fc2140aec35850c4da997');
+define('SECRET_KEY', 'CodenameChicago');
+define('MAX_CHARS', 100);
+
